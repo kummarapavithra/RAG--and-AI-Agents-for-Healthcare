@@ -1,4 +1,4 @@
-# Document Chatbot with RAG & Llama 🦙
+# Document Chatbot with RAG & Llama 
 
 ## Infosys Springboard Internship Project  
 AI-powered document interaction system using Retrieval-Augmented Generation (RAG) and large language models.
