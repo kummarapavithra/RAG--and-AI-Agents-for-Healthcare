@@ -70,7 +70,4 @@ Through this internship project, I gained experience in:
 4.Developing streaming web applications
 5.Managing API integrations
 
-**Contact**
-For any questions or collaboration opportunities:
-**AMIDEPURAM HEMANTHSWAMY**
-• **hemanthswamy22@gmail.com**
+
