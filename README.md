@@ -70,4 +70,5 @@ Through this internship project, I gained experience in:
 4.Developing streaming web applications
 5.Managing API integrations
 
+For queries, reach out via LinkedIn or email at pavithrakummara4@gmail.com
 
